@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.beable
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, aws-v2-sdk, graalvm, gradle, jackson-xml, kotest, kotlin, kotlin-extension-functions, log4j2, readme, shade, yaml]

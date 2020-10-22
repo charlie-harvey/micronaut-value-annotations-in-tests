@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: buildStatusCc3
+
+thing:
+  a: A SUCKS
+  b: THING B
